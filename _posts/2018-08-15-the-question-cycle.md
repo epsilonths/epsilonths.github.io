@@ -1,4 +1,3 @@
-# The Question Cycle:
 # A Thing I've Realized During My First Internship
 
 Here's the thing:
